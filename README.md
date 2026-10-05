@@ -59,7 +59,7 @@ ChatGPTをコード生成・アイデア整理・デバッグなどの開発支�
 
 GitHub Pagesで公開しています。
 
-https://rg26n055-gif.github.io/shinkansen-master/
+https://shin-systems26.github.io/shinkansen-master/
 
 ## 🔧 今後追加したい機能
 
